@@ -1,5 +1,5 @@
 # goseeder - Golang Database Seeder
-This is a tool to seed data into database tables (like Laravel's `php artisan migrate` and Node's `sequelize-cli seed`).
+This is a tool to seed data into database tables (like Laravel's `php artisan db:seed` and Node's `sequelize-cli seed`).
 
 ## Data
 The data that will be inserted into tables, should be placed in YAML formatted files. One YAML file represent one table and the order of files in the folder is respected.
