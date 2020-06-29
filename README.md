@@ -18,7 +18,17 @@ data:
     created_at: now()
 ```
 
+Store this file inside a folder, for example in `/folder/to/data`:
+```
+/folder
+    /to
+        /data
+            01_first_data.yaml
+            02_second_data.yaml
+```
+
 To execute:
 ```
 goseeder seed -s /folder/to/data -d postgres://user:password@server:port/dbname?sslmode=disable
 ```
+
