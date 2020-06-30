@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/carneles/goseeder.svg?branch=develop)](https://travis-ci.com/carneles/goseeder)
 [![Go Report Card](https://goreportcard.com/badge/github.com/carneles/goseeder)](https://goreportcard.com/report/github.com/carneles/goseeder)
 
 
