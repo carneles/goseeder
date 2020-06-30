@@ -1,3 +1,6 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/carneles/goseeder)](https://goreportcard.com/report/github.com/carneles/goseeder)
+
+
 # goseeder - Golang Database Seeder
 This is a tool to seed data into database tables (like Laravel's `php artisan db:seed` and Node's `sequelize-cli seed`).
 
